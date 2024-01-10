@@ -1,0 +1,1 @@
+miner.exe --algo kawpow --server de.aipg.herominers.com:1128 --user AcgzGMvTEyQbDY7PrLBEqKXraj7pbcc4Kq --pass s706
